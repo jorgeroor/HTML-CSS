@@ -1,0 +1,32 @@
+body {
+    background-image: url('Banner-Fachada-CienciasFisicoMatematicas.jpg');
+    background-position:top;
+}
+.box {
+    background-color:rgba(0,0,0,0.5);
+    display:inline-flex;
+    text-align: center;
+    margin:auto;
+    position:relative;
+    top: 150px;
+    left: 130px;
+}
+
+h1 {
+     font-size: 30px;
+     color: antiquewhite;
+}
+
+.para {
+    font-size: 20px;
+     color: antiquewhite;
+
+}
+
+img {
+    width: 15%;
+    height: 170px;
+    padding: 15px;
+    margin: 10px;
+}
+
